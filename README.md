@@ -1,5 +1,5 @@
 # CalcuMon
-Its a simple calculator made by me and it's my first project ^_^
+Its a simple calculator made by me and it's my first project ^_^ 
 Project: Simple Calculator 
 
 
